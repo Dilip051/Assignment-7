@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+  <parameter name="username" value="dilip@gmail.com"/>
+   <parameter name="password" value="Dilip123"/>
+    <classes>
+      <class name="AssignmentQution.FacebookParameter"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
